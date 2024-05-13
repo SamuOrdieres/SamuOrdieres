@@ -10,7 +10,7 @@ My first touch point with programming was developing a geometrical area calculat
 
 For several reasons, I have developed my career at tech-based companies, but most of the roles were not so tech-related. After all those experiences, I have decided to pursue my passion and become a front-end developer.
 
-After rolling and rolling around Europe, I am settled in Ceceda, a small village in the countryside of Asturias (Northern Spain). And I´m trying to collaborate on the resettlement of rural areas. I think that technology and nature, far from being rivals, are the perfect balance, like the Yin and the Yang.
+After rolling around Europe, I settled in Ceceda, a small village in the countryside of Asturias (Northern Spain). And I´m trying to collaborate on the resettlement of rural areas. I think that technology and nature, far from being rivals, are the perfect balance, like the Yin and the Yang.
 
 Skills: NEXT.JS / REACT / TYPESCRIPT / JS / HTML / SCSS / CSS
 
