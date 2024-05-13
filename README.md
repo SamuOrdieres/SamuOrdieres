@@ -1,8 +1,12 @@
 ### Hi there 👋, my Name is Samu
 #### I´m a front-end developer who is deep diving on React, Next.js and other JavaScript related stuff.
-![I´m a front-end developer who is deep diving on React, Next.js and other JavaScript related stuff.](https://imgs.search.brave.com/Fzw6LAklCg41RbcUHZ84WcvtE2vH3ooPY58na7d-ZXs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly92aWFq/ZXMubmF0aW9uYWxn/ZW9ncmFwaGljLmNv/bS5lcy9tZWRpby8y/MDIyLzExLzAyL2Jy/YW5hLWRlLWZ1ZXhv/LWVuLXNvbWllZG8t/b3JpZ2luYWxfMTky/OTMzNzNfODAweDgw/MC5qcGc)
 
-I started developing a geometrical area calculator in Visual Basic around the year 1999, and since then, I have been hooked.
+
+![I´m a front-end developer who is deep diving on React, Next.js and other JavaScript related stuff.](https://imgs.search.brave.com/K7GKp-hfowiWkLkEEpBK5Rqpv2Nm6u6-6MfRoY3Z4ME/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEwMjk3/NzYwLmpwZw)
+
+
+
+My first touch point with programming was developing a geometrical area calculator in Visual Basic around the year 2000 (I was 14 years old), and since then, I have been hooked.
 
 For several reasons, I have developed my career at tech-based companies, but most of the roles were not so tech-related. After all those experiences, I have decided to pursue my passion and become a front-end developer.
 
