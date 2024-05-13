@@ -14,9 +14,9 @@ After rolling around Europe, I settled in Ceceda, a small village in the country
 
 Skills: NEXT.JS / REACT / TYPESCRIPT / JS / HTML / SCSS / CSS
 
-- 🔭 I’m currently working on becoming a FullTime front-end developer 
+- 🔭 I’m currently working on becoming a full-time front-end developer 
 - 🌱 I’m currently learning React, Next.js and SCSS 
-- 👯 I’m looking to collaborate on sustainability, privacy, wellbeing or rural repoblation related projects. 
+- 👯 I’m looking to collaborate on sustainability, privacy, wellbeing, or rural resettlement projects. 
 - 🤔 I’m looking for help with getting my first FrontEnd job. 
 - 💬 Ask me about classic cars 
 - 📫 How to reach me: samuordieres@proton.me 
